@@ -405,7 +405,7 @@ box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
 
 .footer-container{
     display: flex;
-    align-items: baseline,
+    align-items: baseline;
 }
 .footer-text {
     
@@ -433,10 +433,9 @@ box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
         color:#FFFFFF ;
         margin-bottom: 16px;
 }
-.footer-social{
 
-}
-.icon-list-footer{
+.icon-list-footer
+{
     display: flex;
     gap: 16px;
 
@@ -454,7 +453,7 @@ box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
     border-radius:50%;
     align-items: center;
     justify-content: center;
-    transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-link-footer:hover,
 .social-link-footer:focus
