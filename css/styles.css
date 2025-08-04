@@ -415,8 +415,8 @@ box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
     display: inline-block;
     margin-bottom: 16px;
 }
-.footer-logo{
-    margin-right: 120px
+.footer-container-logo{
+    margin-right: 120px;
 }
 .footer-text-two{
     font-weight: 500;
@@ -444,5 +444,5 @@ box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.1
     border-radius:50%;
     align-items: center;
     justify-content: center;
-    
+
 }
